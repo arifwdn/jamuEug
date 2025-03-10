@@ -1,7 +1,6 @@
-# Jamu eug 
-untuk memudahkan saja, masalah keamanan ditanggung masing-masing
+# Welcome to Jamu Eug!
 
-# Mengatasi Masalah printer sharing windows 11 terupdate 10 Maret 2025
+### Mengatasi Masalah printer sharing windows 11 terupdate 10 Maret 2025
 
 ## English
 
