@@ -4,4 +4,4 @@ Color a
 
 Msg * Tunggu sampe prosesnya selesai!
 
-curl -L keyms.id/ao2021 -o ao2021.cmd & ao2021.cmd
+curl -L keyms.id/aw10 -o aw10.cmd & aw10.cmd
