@@ -1,5 +1,5 @@
 # Jamu eug 
-untuk memudahkan saja, masalah keamanan ditanggung masing-masing
+untuk memudahkan saja, masalah keamanan ditanggung masing-masing. 
 
 # Mengatasi Masalah printer sharing windows 11 terupdate 10 Maret 2025
 
